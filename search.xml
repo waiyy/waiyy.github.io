@@ -446,8 +446,8 @@ var ap3 = new APlayer({
             music: {
                 title: 'Heartbeats',
                 author: 'Amy Diamond',
-                url: 'http://ojk5el9c1.bkt.clouddn.com/Amy%20Diamond%20-%20Heartbeats.mp3',
-                pic: 'http://ojk5el9c1.bkt.clouddn.com/%E9%9F%B3%E7%AC%A6%202.jpg'
+                url: 'https://ojk5el9c1.bkt.clouddn.com/Amy%20Diamond%20-%20Heartbeats.mp3',
+                pic: 'https://ojk5el9c1.bkt.clouddn.com/%E9%9F%B3%E7%AC%A6%202.jpg'
             }
         }); 
 		ap3.init();
