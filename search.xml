@@ -137,18 +137,6 @@
   
     
     <entry>
-      <title><![CDATA[404-找不到页面]]></title>
-      <url>https://waiyy.github.io//404.html</url>
-      <content type="html"><![CDATA[<h2 id="404-Not-Found"><a href="#404-Not-Found" class="headerlink" title="404 Not Found"></a><center>404 Not Found<center></center></center></h2><center><strong>对不起，您所访问的页面不存在或者已删除</strong><br>你可以<strong><a href="http://www.wuxubj.cn" target="_blank" rel="external">点击此处</a></strong>返回首页。<br>你也可以<a href="#" class="popup-trigger"><strong>点击此处</strong></a>重新搜索结果。</center><br><center><div style="width:200px;height:200px;padding-bottom:30px;"><img src="http://ojk5el9c1.bkt.clouddn.com/%E7%BD%91%E7%AB%99%E4%BA%8C%E7%BB%B4%E7%A0%81.png" alt="网站二维码">扫一扫，用手机访问本站</div></center>]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[分类]]></title>
-      <url>https://waiyy.github.io/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[关于]]></title>
       <url>https://waiyy.github.io/about/index.html</url>
       <content type="html"><![CDATA[<p><blockquote class="blockquote-center">每当遇到自己不敢直面的困难时，我就会闭上眼睛，想象自己已是年迈八十的老人，在为人生中曾放弃和逃避过的无数困难而懊悔不已。当我进入到那个老人的心态中之后，我会对自己说：“我现在最希望的，就是可以再年轻一次。”然后我睁开双眼………<br>砰！我已再一次年轻了。<br></blockquote></p>
@@ -172,6 +160,12 @@
     </entry>
     
     <entry>
+      <title><![CDATA[分类]]></title>
+      <url>https://waiyy.github.io/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[爱的纪念]]></title>
       <url>https://waiyy.github.io/mylove/index.html</url>
       <content type="html"><![CDATA[<blockquote>
@@ -190,15 +184,21 @@
     </entry>
     
     <entry>
-      <title><![CDATA[标签]]></title>
-      <url>https://waiyy.github.io/tags/index.html</url>
-      <content type="html"></content>
+      <title><![CDATA[404-找不到页面]]></title>
+      <url>https://waiyy.github.io//404.html</url>
+      <content type="html"><![CDATA[<h2 id="404-Not-Found"><a href="#404-Not-Found" class="headerlink" title="404 Not Found"></a><center>404 Not Found<center></center></center></h2><center><strong>对不起，您所访问的页面不存在或者已删除</strong><br>你可以<strong><a href="http://www.wuxubj.cn" target="_blank" rel="external">点击此处</a></strong>返回首页。<br>你也可以<a href="#" class="popup-trigger"><strong>点击此处</strong></a>重新搜索结果。</center><br><center><div style="width:200px;height:200px;padding-bottom:30px;"><img src="http://ojk5el9c1.bkt.clouddn.com/%E7%BD%91%E7%AB%99%E4%BA%8C%E7%BB%B4%E7%A0%81.png" alt="网站二维码">扫一扫，用手机访问本站</div></center>]]></content>
     </entry>
     
     <entry>
       <title><![CDATA[学习计划]]></title>
       <url>https://waiyy.github.io/study-plan/index.html</url>
       <content type="html"><![CDATA[<h2 id="主要书籍"><a href="#主要书籍" class="headerlink" title="主要书籍"></a>主要书籍</h2>]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[标签]]></title>
+      <url>https://waiyy.github.io/tags/index.html</url>
+      <content type="html"></content>
     </entry>
     
     <entry>
@@ -221,21 +221,6 @@
 .dsrv_flag{float:left;padding-right:5px;}
 #dsrv_putaway2{padding:5px 0 0 5px;}
 .ds-recent-visitors{clear:both;}]]></content>
-    </entry>
-    
-    <entry>
-      <title></title>
-      <url>https://waiyy.github.io/css/mycss/underline.css</url>
-      <content type="html"><![CDATA[#posts a{
-  color: #0593d3;
-  border-bottom: none;
-
-  &:hover {
-    color: #0593d3;
-    border-bottom: 1px solid #0593d3;
-  }
-}
-#posts a:hover {text-decoration:underline;}]]></content>
     </entry>
     
     <entry>
@@ -371,6 +356,21 @@ form{font-size:14px;}
     
     <entry>
       <title></title>
+      <url>https://waiyy.github.io/css/mycss/underline.css</url>
+      <content type="html"><![CDATA[#posts a{
+  color: #0593d3;
+  border-bottom: none;
+
+  &:hover {
+    color: #0593d3;
+    border-bottom: 1px solid #0593d3;
+  }
+}
+#posts a:hover {text-decoration:underline;}]]></content>
+    </entry>
+    
+    <entry>
+      <title></title>
       <url>https://waiyy.github.io/js/myscript/guestbook.js</url>
       <content type="html"><![CDATA[        var ap3 = new APlayer({
             element: document.getElementById('player3'),
@@ -385,6 +385,73 @@ form{font-size:14px;}
             }
         });
         ap3.init();]]></content>
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>https://waiyy.github.io/js/myscript/mylove.js</url>
+      <content type="html"><![CDATA[function hideElement(elementID)
+{
+	var myele=document.getElementById(elementID);
+	myele.style.display="none";
+}
+
+function showElement(elementID)
+{
+	var myele=document.getElementById(elementID);
+	myele.style.display="block";
+}
+
+function loveTime(startDate){
+     //   var EndTime= new Date('2014/02/6 19:46:00'); //截止时间 前端路上 http://www.51xuediannao.com/qd63/
+        var EndTime= new Date(startDate); 
+		var NowTime = new Date();
+        var t =NowTime.getTime() - EndTime.getTime();
+
+        var d=Math.floor(t/1000/60/60/24);
+        var h=Math.floor(t/1000/60/60%24);
+        var m=Math.floor(t/1000/60%60);
+        var s=Math.floor(t/1000%60);
+		var month=Math.ceil(d/30);
+		var year=Math.ceil(d/365);
+        document.getElementById("t_d").innerHTML = d ;
+        document.getElementById("t_h").innerHTML = h ;
+        document.getElementById("t_m").innerHTML = m ;
+        document.getElementById("t_s").innerHTML = s ;
+		
+		document.getElementById("t_month").innerHTML = month ;
+		document.getElementById("t_year").innerHTML = year ;
+    }
+
+setInterval("loveTime('2015/05/10 12:00:00')",1000);
+
+function imgStop(strid){
+var a = document.getElementById(strid);
+a.style["animation"]="cycle 0s 0s infinite";
+a.style["border-radius"]="0";
+}
+
+function imgStart(strid){
+var a = document.getElementById(strid);
+a.style["border-radius"]="100%";
+a.style["animation"]="cycle 2s 0.5s infinite";
+a.style["transition"]="border-radius 2s";
+}
+
+var ap3 = new APlayer({
+            element: document.getElementById('player3'),
+            narrow: false,
+            autoplay: true,
+            showlrc: false,
+            music: {
+                title: 'Heartbeats',
+                author: 'Amy Diamond',
+                url: 'http://ojk5el9c1.bkt.clouddn.com/Amy%20Diamond%20-%20Heartbeats.mp3',
+                pic: 'http://ojk5el9c1.bkt.clouddn.com/%E9%9F%B3%E7%AC%A6%202.jpg'
+            }
+        }); 
+		ap3.init();
+]]></content>
     </entry>
     
     <entry>
@@ -464,73 +531,6 @@ form{font-size:14px;}
       <title></title>
       <url>https://waiyy.github.io/js/myscript/love.js</url>
       <content type="html"><![CDATA[!function(e,t,a){function n(){c(".heart{width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -5px;}.heart:before{left: -5px;}"),o(),r()}function r(){for(var e=0;e]]></content>
-    </entry>
-    
-    <entry>
-      <title></title>
-      <url>https://waiyy.github.io/js/myscript/mylove.js</url>
-      <content type="html"><![CDATA[function hideElement(elementID)
-{
-	var myele=document.getElementById(elementID);
-	myele.style.display="none";
-}
-
-function showElement(elementID)
-{
-	var myele=document.getElementById(elementID);
-	myele.style.display="block";
-}
-
-function loveTime(startDate){
-     //   var EndTime= new Date('2014/02/6 19:46:00'); //截止时间 前端路上 http://www.51xuediannao.com/qd63/
-        var EndTime= new Date(startDate); 
-		var NowTime = new Date();
-        var t =NowTime.getTime() - EndTime.getTime();
-
-        var d=Math.floor(t/1000/60/60/24);
-        var h=Math.floor(t/1000/60/60%24);
-        var m=Math.floor(t/1000/60%60);
-        var s=Math.floor(t/1000%60);
-		var month=Math.ceil(d/30);
-		var year=Math.ceil(d/365);
-        document.getElementById("t_d").innerHTML = d ;
-        document.getElementById("t_h").innerHTML = h ;
-        document.getElementById("t_m").innerHTML = m ;
-        document.getElementById("t_s").innerHTML = s ;
-		
-		document.getElementById("t_month").innerHTML = month ;
-		document.getElementById("t_year").innerHTML = year ;
-    }
-
-setInterval("loveTime('2015/05/10 12:00:00')",1000);
-
-function imgStop(strid){
-var a = document.getElementById(strid);
-a.style["animation"]="cycle 0s 0s infinite";
-a.style["border-radius"]="0";
-}
-
-function imgStart(strid){
-var a = document.getElementById(strid);
-a.style["border-radius"]="100%";
-a.style["animation"]="cycle 2s 0.5s infinite";
-a.style["transition"]="border-radius 2s";
-}
-
-var ap3 = new APlayer({
-            element: document.getElementById('player3'),
-            narrow: false,
-            autoplay: true,
-            showlrc: false,
-            music: {
-                title: 'Heartbeats',
-                author: 'Amy Diamond',
-                url: 'http://ojk5el9c1.bkt.clouddn.com/Amy%20Diamond%20-%20Heartbeats.mp3',
-                pic: 'http://ojk5el9c1.bkt.clouddn.com/%E9%9F%B3%E7%AC%A6%202.jpg'
-            }
-        }); 
-		ap3.init();
-]]></content>
     </entry>
     
   
