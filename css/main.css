@@ -1805,7 +1805,7 @@ section .post-type-normal .topc-article {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #0d88fa;
+  background: #4e2fff;
 }
 .links-of-author-item {
   text-align: center;
@@ -2406,7 +2406,7 @@ a.search-result {
   overflow: hidden;
 }
 body {
-  background: #e7e5dc;
+  background: #d6d4cf;
 }
 @media (max-width: 767px) {
   body {
@@ -2442,6 +2442,7 @@ body {
   padding: 0;
   width: 240px;
   background: #fff;
+  box-shadow: 5px 5px 5px #888;
 }
 @media (min-width: 1600px) {
   .container .header-inner {
@@ -2498,6 +2499,7 @@ body {
   width: 700px;
   background: #fff;
   min-height: 700px;
+  box-shadow: 5px 5px 5px #888;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .content-wrap {
@@ -2518,7 +2520,7 @@ body {
   margin-top: 300px;
   width: 240px;
   background: #fff;
-  box-shadow: none;
+  box-shadow: 5px 5px 5px #888;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .sidebar {
