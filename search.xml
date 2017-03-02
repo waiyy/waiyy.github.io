@@ -452,10 +452,10 @@ var ap3 = new APlayer({
             autoplay: true,
             showlrc: false,
             music: {
-                title: '漂洋过海来看你',
-                author: '李行亮',
-                url: 'http://media.wuxubj.cn/%E6%BC%82%E6%B4%8B%E8%BF%87%E6%B5%B7%E6%9D%A5%E7%9C%8B%E4%BD%A0.mp3',
-                pic: 'http://media.wuxubj.cn/5757042883105946.jpg'
+                title: 'Heartbeats',
+                author: 'Amy Diamond',
+                url: 'http://ojk5el9c1.bkt.clouddn.com/Amy%20Diamond%20-%20Heartbeats.mp3',
+                pic: 'http://ojk5el9c1.bkt.clouddn.com/%E9%9F%B3%E7%AC%A6%202.jpg'
             }
         }); 
 		ap3.init();
