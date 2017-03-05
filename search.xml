@@ -137,21 +137,27 @@
   
     
     <entry>
+      <title><![CDATA[404-找不到页面]]></title>
+      <url>https://waiyy.github.io//404.html</url>
+      <content type="html"><![CDATA[<h2 id="404-Not-Found"><a href="#404-Not-Found" class="headerlink" title="404 Not Found"></a><center>404 Not Found<center></center></center></h2><center><strong>对不起，您所访问的页面不存在或者已删除</strong><br>你可以<strong><a href="http://www.wuxubj.cn" target="_blank" rel="external">点击此处</a></strong>返回首页。<br>你也可以<a href="#" class="popup-trigger"><strong>点击此处</strong></a>重新搜索结果。</center><br><center><div style="width:200px;height:200px;padding-bottom:30px;"><img src="http://ojk5el9c1.bkt.clouddn.com/%E7%BD%91%E7%AB%99%E4%BA%8C%E7%BB%B4%E7%A0%81.png" alt="网站二维码">扫一扫，用手机访问本站</div></center>]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[关于]]></title>
       <url>https://waiyy.github.io/about/index.html</url>
       <content type="html"><![CDATA[<p><blockquote class="blockquote-center">每当遇到自己不敢直面的困难时，我就会闭上眼睛，想象自己已是年迈八十的老人，在为人生中曾放弃和逃避过的无数困难而懊悔不已。当我进入到那个老人的心态中之后，我会对自己说：“我现在最希望的，就是可以再年轻一次。”然后我睁开双眼………<br>砰！我已再一次年轻了。<br></blockquote></p>
-<div class="demo" id="music"><div id="player3" class="aplayer"></div></div>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=3986376&auto=1&height=66"></iframe>
 
 <hr>
 <blockquote>
 <p>人会长大三次。第一次是在发现自己不是世界中心的时候。第二次是在发现即使再怎么努力，终究还是有些事令人无能为力的时候。第三次是在，明知道有些事可能会无能为力，但还是会全力以赴的时候。</p>
 </blockquote>
 <hr>
-<center><div style="width:200px;height:200px;padding-bottom:20px;"><img src="http://ojk5el9c1.bkt.clouddn.com/%E7%BD%91%E7%AB%99%E4%BA%8C%E7%BB%B4%E7%A0%81.png" alt="网站二维码">扫一扫，用手机访问本站</div></center>
-
-
-
-
+<p><center><div style="width:200px;height:200px;padding-bottom:20px;"><img src="http://ojk5el9c1.bkt.clouddn.com/%E7%BD%91%E7%AB%99%E4%BA%8C%E7%BB%B4%E7%A0%81.png" alt="网站二维码">扫一扫，用手机访问本站</div></center></p>
+<blockquote>
+<p>&nbsp;<span class="dsrv_flag">最近访客</span><span id="dsrv_putaway" class="dsrv_flag hidden"><a href="javascript:void(0);" onclick="hideElement('ds-recent-visitors');showElement('dsrv_spread');hideElement('dsrv_putaway');hideElement('dsrv_putaway2');" target="_blank" rel="external">收起</a></span><span id="dsrv_spread" class="dsrv_flag"><a href="javascript:void(0);" onclick="showElement('ds-recent-visitors');showElement('dsrv_putaway');showElement('dsrv_putaway2');hideElement('dsrv_spread')" target="_blank" rel="external">展开</a></span></p>
+<p><div class="ds-recent-visitors hidden" data-num-items="1000" data-avatar-size="24" id="ds-recent-visitors">加载中…</div><span id="dsrv_putaway2" class="dsrv_flag hidden"><a href="javascript:void(0);" onclick="hideElement('ds-recent-visitors');showElement('dsrv_spread');hideElement('dsrv_putaway');hideElement('dsrv_putaway2');" target="_blank" rel="external">收起</a></span></p>
+</blockquote>
 <p><link rel="stylesheet" href="/css/mycss/underline.css"></p>
 <p><link rel="stylesheet" href="http://jslibs.wuxubj.cn/APlayer/APlayer.min.css"></p>
 <p><link rel="stylesheet" href="/css/mycss/guestbook.css"></p>
@@ -169,8 +175,8 @@
       <title><![CDATA[爱的纪念]]></title>
       <url>https://waiyy.github.io/mylove/index.html</url>
       <content type="html"><![CDATA[<blockquote>
-<h2 id="恋爱时钟"><a href="#恋爱时钟" class="headerlink" title="恋爱时钟"></a>恋爱时钟</h2><p><div id="headouter"><div id="headinner1"><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 100%;"><img id="mylove_tess" src="http://ojk5el9c1.bkt.clouddn.com/tiny.JPG" width="120" height="120" onmouseover="imgStop('mylove_wuxubj');imgStop('mylove_tess')" onmouseout="imgStart('mylove_wuxubj');imgStart('mylove_tess')"></div></div><div class="group-picture-row"></div></div></div></div><div id="headinner2"><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 100%;"><img id="mylove_wuxubj" src="http://ojk5el9c1.bkt.clouddn.com/xiaoyanzi.png" width="120" height="120" onmouseover="imgStop('mylove_wuxubj');imgStop('mylove_tess')" onmouseout="imgStart('mylove_wuxubj');imgStart('mylove_tess')"></div></div><div class="group-picture-row"></div></div></div></div></div></p>
-<p><blockquote class="blockquote-center" id="clear"><div id="lovelqw">小二狼和袁小燕的恋爱时钟：<br>    <span id="t_d">00</span>天<span id="t_h">00</span>时<span id="t_m">00</span>分<span id="t_s">00</span>秒<br><span id="loveYear">今天是第<span id="t_month">00</span>个月，第<span id="t_year">00</span>年 ！</span></div></blockquote><form><!--当点击相应按钮，执行相应操作，为按钮添加相应事件--><input type="button" id="bthidden" onclick="hideElement('music');showElement('btshow');hideElement('bthidden')" value="隐藏音乐"> <input type="button" id="btshow" class="hidden" onclick="showElement('music');showElement('bthidden');hideElement('btshow')" value="显示音乐"></form><div class="demo" id="music"><div id="player3" class="aplayer"></div></div><br><!-- <span>[小游戏](http://thirdparty.wuxubj.cn/fruitslice/index.html)</span>
+<h2 id="恋爱时钟"><a href="#恋爱时钟" class="headerlink" title="恋爱时钟"></a>恋爱时钟</h2><p><div id="headouter"><div id="headinner1"><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 100%;"><img id="mylove_tess" src="http://ojk5el9c1.bkt.clouddn.com/xiaoya.jpeg" width="120" height="120" onmouseover="imgStop('mylove_wuxubj');imgStop('mylove_tess')" onmouseout="imgStart('mylove_wuxubj');imgStart('mylove_tess')"></div></div><div class="group-picture-row"></div></div></div></div><div id="headinner2"><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 100%;"><img id="mylove_wuxubj" src="http://ojk5el9c1.bkt.clouddn.com/xiaopohai02.jpeg" width="120" height="120" onmouseover="imgStop('mylove_wuxubj');imgStop('mylove_tess')" onmouseout="imgStart('mylove_wuxubj');imgStart('mylove_tess')"></div></div><div class="group-picture-row"></div></div></div></div></div></p>
+<p><blockquote class="blockquote-center" id="clear"><div id="lovelqw">小二狼和袁小燕的恋爱时钟：<br>    <span id="t_d">00</span>天<span id="t_h">00</span>时<span id="t_m">00</span>分<span id="t_s">00</span>秒<br><span id="loveYear">今天是第<span id="t_month">00</span>个月，第<span id="t_year">00</span>年 ！</span></div></blockquote><form><!--当点击相应按钮，执行相应操作，为按钮添加相应事件--><input type="button" id="bthidden" onclick="hideElement('music');showElement('btshow');hideElement('bthidden')" value="隐藏音乐"> <input type="button" id="btshow" class="hidden" onclick="showElement('music');showElement('bthidden');hideElement('btshow')" value="显示音乐"></form><iframe id="music" frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=2175282&auto=1&height=66"></iframe><br><!-- <span>[小游戏](http://thirdparty.wuxubj.cn/fruitslice/index.html)</span>
 <a title="小high一下~" rel="alternate" class="mw-harlem_shake_slow wobble shake" href="javascript:shake()">High起来</a> --></p>
 <h3 id="照片墙"><a href="#照片墙" class="headerlink" title="照片墙"></a>照片墙</h3><p><div class="imageborder"><a href="/thirdparty/photowall/"><img src="http://ojk5el9c1.bkt.clouddn.com/%E7%85%A7%E7%89%87%E5%A2%99.jpeg" alt="photowall"></a></div></p>
 <p><link rel="stylesheet" href="/css/mycss/underline.css"></p>
@@ -181,12 +187,6 @@
 
 </blockquote>
 ]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[404-找不到页面]]></title>
-      <url>https://waiyy.github.io//404.html</url>
-      <content type="html"><![CDATA[<h2 id="404-Not-Found"><a href="#404-Not-Found" class="headerlink" title="404 Not Found"></a><center>404 Not Found<center></center></center></h2><center><strong>对不起，您所访问的页面不存在或者已删除</strong><br>你可以<strong><a href="http://www.wuxubj.cn" target="_blank" rel="external">点击此处</a></strong>返回首页。<br>你也可以<a href="#" class="popup-trigger"><strong>点击此处</strong></a>重新搜索结果。</center><br><center><div style="width:200px;height:200px;padding-bottom:30px;"><img src="http://ojk5el9c1.bkt.clouddn.com/%E7%BD%91%E7%AB%99%E4%BA%8C%E7%BB%B4%E7%A0%81.png" alt="网站二维码">扫一扫，用手机访问本站</div></center>]]></content>
     </entry>
     
     <entry>
@@ -214,25 +214,15 @@
     
     <entry>
       <title></title>
-      <url>https://waiyy.github.io/css/mycss/guestbook.css</url>
-      <content type="html"><![CDATA[.demo{width:300px; margin:0px auto 10px auto}
-.aplayer-music{line-height:18px;text-align:left;}
-.aplayer .aplayer-info .aplayer-controller .aplayer-time{bottom:0px;}
-.dsrv_flag{float:left;padding-right:5px;}
-#dsrv_putaway2{padding:5px 0 0 5px;}
-.ds-recent-visitors{clear:both;}]]></content>
-    </entry>
-    
-    <entry>
-      <title></title>
       <url>https://waiyy.github.io/css/mycss/mylove.css</url>
       <content type="html"><![CDATA[#lovelqw {
-  background: #ffe;
+  background: #edddbb;
   margin: 0px auto;
   text-align: center;
   padding: 0px;
   font-size: 16px;
   color: #666;
+  border-radius: 12px;
 }
 #clear{clear:both;}
 .demo{width:310px; margin:0px auto 10px auto}
@@ -248,13 +238,13 @@ form{font-size:14px;}
 	float:left;
 	width:40%;
     position:relative;
-	padding:0px 5px 30px 5%;
+	padding:0 5px 30px 5%;
 	}
 #headinner2{
 	float:right;
 	width:40%;
     position:relative;
-	padding:0px 5% 30px 5px;
+	padding:0 5% 30px 5px;
 	}
 #headinner1 img{float:right;}
 #headinner2 img{float:left;}
@@ -262,19 +252,28 @@ form{font-size:14px;}
 .imageborder img {
   border-radius: 100%;
   transition: border-radius 2s;
+  padding:6px;
+  box-shadow: inset 0 0 6px ;
+
+  
 }
 .imageborder img:hover {
-  border-radius: 0;
+  border-radius: 12px;
+
 }
 
 #headinner1 img,#headinner2 img{
   border-radius: 100%;
   animation: cycle 2s 0.5s infinite;
   transition: border-radius 2s;
+  padding:5px;
+  box-shadow: inset 0 0 5px;
+  
 }
-#headinner1 img:hover ,#headinner2 img:hover{
-  border-radius: 0;
+#headinner1 img:hover ,#headinner2 img:hover {
+  border-radius: 3px;
   animation: cycle 0s 0s infinite;
+  
 }
 
 @keyframe translate {
@@ -356,17 +355,13 @@ form{font-size:14px;}
     
     <entry>
       <title></title>
-      <url>https://waiyy.github.io/css/mycss/underline.css</url>
-      <content type="html"><![CDATA[#posts a{
-  color: #0593d3;
-  border-bottom: none;
-
-  &:hover {
-    color: #0593d3;
-    border-bottom: 1px solid #0593d3;
-  }
-}
-#posts a:hover {text-decoration:underline;}]]></content>
+      <url>https://waiyy.github.io/css/mycss/guestbook.css</url>
+      <content type="html"><![CDATA[.demo{width:300px; margin:0px auto 10px auto}
+.aplayer-music{line-height:18px;text-align:left;}
+.aplayer .aplayer-info .aplayer-controller .aplayer-time{bottom:0px;}
+.dsrv_flag{float:left;padding-right:5px;}
+#dsrv_putaway2{padding:5px 0 0 5px;}
+.ds-recent-visitors{clear:both;}]]></content>
     </entry>
     
     <entry>
@@ -385,6 +380,27 @@ form{font-size:14px;}
             }
         });
         ap3.init();]]></content>
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>https://waiyy.github.io/css/mycss/underline.css</url>
+      <content type="html"><![CDATA[#posts a{
+  color: #0593d3;
+  border-bottom: none;
+
+  &:hover {
+    color: #0593d3;
+    border-bottom: 1px solid #0593d3;
+  }
+}
+#posts a:hover {text-decoration:underline;}]]></content>
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>https://waiyy.github.io/js/myscript/love.js</url>
+      <content type="html"><![CDATA[!function(e,t,a){function n(){c(".heart{width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -5px;}.heart:before{left: -5px;}"),o(),r()}function r(){for(var e=0;e]]></content>
     </entry>
     
     <entry>
@@ -525,12 +541,6 @@ var ap3 = new APlayer({
     function E(e) {
         var t = m(e);
         return t >= w && t ]]></content>
-    </entry>
-    
-    <entry>
-      <title></title>
-      <url>https://waiyy.github.io/js/myscript/love.js</url>
-      <content type="html"><![CDATA[!function(e,t,a){function n(){c(".heart{width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -5px;}.heart:before{left: -5px;}"),o(),r()}function r(){for(var e=0;e]]></content>
     </entry>
     
   

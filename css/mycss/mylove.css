@@ -1,10 +1,11 @@
 #lovelqw {
-  background: #ffe;
+  background: #edddbb;
   margin: 0px auto;
   text-align: center;
   padding: 0px;
   font-size: 16px;
   color: #666;
+  border-radius: 12px;
 }
 #clear{clear:both;}
 .demo{width:310px; margin:0px auto 10px auto}
@@ -20,13 +21,13 @@ form{font-size:14px;}
 	float:left;
 	width:40%;
     position:relative;
-	padding:0px 5px 30px 5%;
+	padding:0 5px 30px 5%;
 	}
 #headinner2{
 	float:right;
 	width:40%;
     position:relative;
-	padding:0px 5% 30px 5px;
+	padding:0 5% 30px 5px;
 	}
 #headinner1 img{float:right;}
 #headinner2 img{float:left;}
@@ -34,19 +35,28 @@ form{font-size:14px;}
 .imageborder img {
   border-radius: 100%;
   transition: border-radius 2s;
+  padding:6px;
+  box-shadow: inset 0 0 6px ;
+
+  
 }
 .imageborder img:hover {
-  border-radius: 0;
+  border-radius: 12px;
+
 }
 
 #headinner1 img,#headinner2 img{
   border-radius: 100%;
   animation: cycle 2s 0.5s infinite;
   transition: border-radius 2s;
+  padding:5px;
+  box-shadow: inset 0 0 5px;
+  
 }
-#headinner1 img:hover ,#headinner2 img:hover{
-  border-radius: 0;
+#headinner1 img:hover ,#headinner2 img:hover {
+  border-radius: 3px;
   animation: cycle 0s 0s infinite;
+  
 }
 
 @keyframe translate {
