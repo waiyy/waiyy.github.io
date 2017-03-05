@@ -137,6 +137,12 @@
   
     
     <entry>
+      <title><![CDATA[分类]]></title>
+      <url>https://waiyy.github.io/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[404-找不到页面]]></title>
       <url>https://waiyy.github.io//404.html</url>
       <content type="html"><![CDATA[<h2 id="404-Not-Found"><a href="#404-Not-Found" class="headerlink" title="404 Not Found"></a><center>404 Not Found<center></center></center></h2><center><strong>对不起，您所访问的页面不存在或者已删除</strong><br>你可以<strong><a href="http://www.wuxubj.cn" target="_blank" rel="external">点击此处</a></strong>返回首页。<br>你也可以<a href="#" class="popup-trigger"><strong>点击此处</strong></a>重新搜索结果。</center><br><center><div style="width:200px;height:200px;padding-bottom:30px;"><img src="http://ojk5el9c1.bkt.clouddn.com/%E7%BD%91%E7%AB%99%E4%BA%8C%E7%BB%B4%E7%A0%81.png" alt="网站二维码">扫一扫，用手机访问本站</div></center>]]></content>
@@ -163,12 +169,6 @@
 <p><link rel="stylesheet" href="/css/mycss/guestbook.css"></p>
 <script src="http://jslibs.wuxubj.cn/APlayer/APlayer.min.js"></script>
 <script src="/js/myscript/guestbook.js"></script> ]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[分类]]></title>
-      <url>https://waiyy.github.io/categories/index.html</url>
-      <content type="html"></content>
     </entry>
     
     <entry>
@@ -366,6 +366,21 @@ form{font-size:14px;}
     
     <entry>
       <title></title>
+      <url>https://waiyy.github.io/css/mycss/underline.css</url>
+      <content type="html"><![CDATA[#posts a{
+  color: #0593d3;
+  border-bottom: none;
+
+  &:hover {
+    color: #0593d3;
+    border-bottom: 1px solid #0593d3;
+  }
+}
+#posts a:hover {text-decoration:underline;}]]></content>
+    </entry>
+    
+    <entry>
+      <title></title>
       <url>https://waiyy.github.io/js/myscript/guestbook.js</url>
       <content type="html"><![CDATA[        var ap3 = new APlayer({
             element: document.getElementById('player3'),
@@ -380,21 +395,6 @@ form{font-size:14px;}
             }
         });
         ap3.init();]]></content>
-    </entry>
-    
-    <entry>
-      <title></title>
-      <url>https://waiyy.github.io/css/mycss/underline.css</url>
-      <content type="html"><![CDATA[#posts a{
-  color: #0593d3;
-  border-bottom: none;
-
-  &:hover {
-    color: #0593d3;
-    border-bottom: 1px solid #0593d3;
-  }
-}
-#posts a:hover {text-decoration:underline;}]]></content>
     </entry>
     
     <entry>

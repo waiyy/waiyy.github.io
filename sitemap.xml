@@ -100,6 +100,13 @@
   </url>
   
   <url>
+    <loc>https://waiyy.github.io/tags/index.html</loc>
+    
+    <lastmod>2017-01-15T10:22:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://waiyy.github.io/categories/index.html</loc>
     
     <lastmod>2017-01-15T10:22:24.000Z</lastmod>
@@ -107,7 +114,7 @@
   </url>
   
   <url>
-    <loc>https://waiyy.github.io/js/myscript/guestbook.js</loc>
+    <loc>https://waiyy.github.io/css/mycss/guestbook.css</loc>
     
     <lastmod>2017-01-15T10:22:24.000Z</lastmod>
     
@@ -121,21 +128,14 @@
   </url>
   
   <url>
+    <loc>https://waiyy.github.io/js/myscript/guestbook.js</loc>
+    
+    <lastmod>2017-01-15T10:22:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://waiyy.github.io/js/myscript/love.js</loc>
-    
-    <lastmod>2017-01-15T10:22:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://waiyy.github.io/tags/index.html</loc>
-    
-    <lastmod>2017-01-15T10:22:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://waiyy.github.io/css/mycss/guestbook.css</loc>
     
     <lastmod>2017-01-15T10:22:24.000Z</lastmod>
     
