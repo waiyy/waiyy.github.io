@@ -383,12 +383,6 @@ form{font-size:14px;}
     
     <entry>
       <title></title>
-      <url>https://waiyy.github.io/js/myscript/love.js</url>
-      <content type="html"><![CDATA[!function(e,t,a){function n(){c(".heart{width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -5px;}.heart:before{left: -5px;}"),o(),r()}function r(){for(var e=0;e]]></content>
-    </entry>
-    
-    <entry>
-      <title></title>
       <url>https://waiyy.github.io/js/myscript/guestbook.js</url>
       <content type="html"><![CDATA[        var ap3 = new APlayer({
             element: document.getElementById('player3'),
@@ -403,6 +397,12 @@ form{font-size:14px;}
             }
         });
         ap3.init();]]></content>
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>https://waiyy.github.io/js/myscript/love.js</url>
+      <content type="html"><![CDATA[!function(e,t,a){function n(){c(".heart{width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -5px;}.heart:before{left: -5px;}"),o(),r()}function r(){for(var e=0;e]]></content>
     </entry>
     
     <entry>
