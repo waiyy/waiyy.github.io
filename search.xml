@@ -144,12 +144,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[分类]]></title>
-      <url>https://waiyy.github.io/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[关于]]></title>
       <url>https://waiyy.github.io/about/index.html</url>
       <content type="html"><![CDATA[<p><blockquote class="blockquote-center">每当遇到自己不敢直面的困难时，我就会闭上眼睛，想象自己已是年迈八十的老人，在为人生中曾放弃和逃避过的无数困难而懊悔不已。当我进入到那个老人的心态中之后，我会对自己说：“我现在最希望的，就是可以再年轻一次。”然后我睁开双眼………<br>砰！我已再一次年轻了。<br></blockquote></p>
@@ -171,6 +165,12 @@
 <link rel="stylesheet" href="/css/mycss/guestbook.css">
 <script src="http://jslibs.wuxubj.cn/APlayer/APlayer.min.js"></script>
 <script src="/js/myscript/guestbook.js"></script> -->]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[分类]]></title>
+      <url>https://waiyy.github.io/categories/index.html</url>
+      <content type="html"></content>
     </entry>
     
     <entry>
@@ -212,6 +212,17 @@
 
 
 ]]></content>
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>https://waiyy.github.io/css/mycss/guestbook.css</url>
+      <content type="html"><![CDATA[.demo{width:300px; margin:0px auto 10px auto}
+.aplayer-music{line-height:18px;text-align:left;}
+.aplayer .aplayer-info .aplayer-controller .aplayer-time{bottom:0px;}
+.dsrv_flag{float:left;padding-right:5px;}
+#dsrv_putaway2{padding:5px 0 0 5px;}
+.ds-recent-visitors{clear:both;}]]></content>
     </entry>
     
     <entry>
@@ -353,17 +364,6 @@ form{font-size:14px;}
   }
 }
 ]]></content>
-    </entry>
-    
-    <entry>
-      <title></title>
-      <url>https://waiyy.github.io/css/mycss/guestbook.css</url>
-      <content type="html"><![CDATA[.demo{width:300px; margin:0px auto 10px auto}
-.aplayer-music{line-height:18px;text-align:left;}
-.aplayer .aplayer-info .aplayer-controller .aplayer-time{bottom:0px;}
-.dsrv_flag{float:left;padding-right:5px;}
-#dsrv_putaway2{padding:5px 0 0 5px;}
-.ds-recent-visitors{clear:both;}]]></content>
     </entry>
     
     <entry>
